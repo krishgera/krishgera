@@ -1,16 +1,53 @@
-## Hi there 👋
+~~~text
+██╗  ██╗██████╗ ██╗███████╗██╗  ██╗     ██████╗ ███████╗██████╗  █████╗
+██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║    ██╔════╝ ██╔════╝██╔══██╗██╔══██╗
+█████╔╝ ██████╔╝██║███████╗███████║    ██║  ███╗█████╗  ██████╔╝███████║
+██╔═██╗ ██╔══██╗██║╚════██║██╔══██║    ██║   ██║██╔══╝  ██╔══██╗██╔══██║
+██║  ██╗██║  ██║██║███████║██║  ██║    ╚██████╔╝███████╗██║  ██║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝     ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 
-<!--
-**krishgera/krishgera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+K R I S H   G E R A
+~~~text
 
-Here are some ideas to get you started:
+## Krish Gera
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founder at **Ryvlar Ltd**  
+External Threat Intelligence · Attack Surface Monitoring · OSINT Engineering  
+Manchester, UK · https://ryvlar.com
+
+---
+
+## Mission
+
+Build systems that turn external signals into actionable decisions.
+Less noise. More attribution. Faster triage.
+
+---
+
+## What I build
+
+- Brand abuse detection and impersonation tracking
+- Typosquats and lookalike infrastructure mapping
+- Leaked credential and exposed secret discovery
+- Shadow asset discovery and enrichment
+- Correlation, scoring, and analyst-first triage
+
+---
+
+## Enjoy my work
+
+- **svc-aws-brand**  
+  Brand abuse and infrastructure correlation workflows
+
+- **svc-c-domain**  
+  Domain intelligence, enrichment, and risk scoring
+
+- **ponder**  
+  A complete product build, end to end execution
+
+---
+
+## Contact
+
+- Email: krishgera0904@gmail.com
+- PGP fingerprint: `08AD 4C2F 5DB6 07EC 163A  E2BD 785C DDC3 8590 F40A`
