@@ -37,13 +37,6 @@ What I build
 
 5. Correlation, scoring, and analyst-first triage
 
-Enjoy my work
-
-https://github.com/krishgera/svc-aws-brand
-
-https://github.com/krishgera/svc-c-domain
-
-https://github.com/krishgera/ponder
 
 Contact
 
