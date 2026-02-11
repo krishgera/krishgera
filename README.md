@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>External Threat Intelligence</b> · <b>Attack Surface Monitoring</b> · <b>OSINT Engineering</b><br/>
-  Manchester, UK · <a href="https://ryvlar.com">ryvlar.com</a>
+  Manchester, UK · <a href="https://krishgera.com">krishgera.com</a>
 </p>
 
 <p align="center">
@@ -43,6 +43,6 @@ Contact
 Email: <a href="mailto:krishgera0904@gmail.com">krishgera0904@gmail.com
 </a>
 
-Website: https://ryvlar.com
+Website: https://krishgera.com
 
 PGP fingerprint: 08AD 4C2F 5DB6 07EC 163A E2BD 785C DDC3 8590 F40A
